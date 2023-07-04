@@ -48,8 +48,3 @@ def checkout():
 
 checkout()
 
-    
-    
-    
-
-    
